@@ -9,7 +9,7 @@ Etapa 1
 
 
 Etapa 2
-    Criado recurso de ML - Classyfy Text  
+    Criado recurso de ML - Classify Text  
 
 Etapa3
     na tela 'Analyze sentiment and mine opinions
